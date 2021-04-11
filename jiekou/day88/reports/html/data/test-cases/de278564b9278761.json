@@ -1,0 +1,81 @@
+{
+  "uid" : "de278564b9278761",
+  "name" : "test_case1",
+  "fullName" : "testcase.test_login1.Test_login1#test_case1",
+  "historyId" : "f43f512787554041d7d8f82ba5f9ca30",
+  "time" : {
+    "start" : 1617799569719,
+    "stop" : 1617799569936,
+    "duration" : 217
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d69da3c59ece2eaf",
+      "name" : "log",
+      "source" : "d69da3c59ece2eaf.txt",
+      "type" : "text/plain",
+      "size" : 267
+    }, {
+      "uid" : "9657b258bebb146d",
+      "name" : "stdout",
+      "source" : "9657b258bebb146d.txt",
+      "type" : "text/plain",
+      "size" : 120
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "测试allure"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_login1"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_login1"
+  }, {
+    "name" : "host",
+    "value" : "lvtiexindeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "6750-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_login1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "de278564b9278761.json",
+  "parameterValues" : [ ]
+}

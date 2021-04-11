@@ -1,0 +1,39 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "allure报告相关的装饰器",
+    "children" : [ {
+      "name" : "Test_login",
+      "children" : [ {
+        "name" : "自定义的测试标题",
+        "uid" : "7fa207d29bfadea2",
+        "parentUid" : "7125b670fec966146a5e6a3f343158b3",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603598568242,
+          "stop" : 1603598568287,
+          "duration" : 45
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'bull'", "'登录成功'", "'123456'" ]
+      }, {
+        "name" : "test_No_Decorator[bull-123456-登录成功]",
+        "uid" : "11bdf1c3b87a94e7",
+        "parentUid" : "7125b670fec966146a5e6a3f343158b3",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603598568362,
+          "stop" : 1603598568405,
+          "duration" : 43
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'bull'", "'登录成功'", "'123456'" ]
+      } ],
+      "uid" : "7125b670fec966146a5e6a3f343158b3"
+    } ],
+    "uid" : "8d3242a5aee6096b2ced94deb74a9a1f"
+  } ]
+}

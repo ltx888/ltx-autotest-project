@@ -1,0 +1,22 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "测试allure",
+    "children" : [ {
+      "name" : "test_case1",
+      "uid" : "de278564b9278761",
+      "parentUid" : "968ae2f13df45eef39ae0625cf7aa82a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617799569719,
+        "stop" : 1617799569936,
+        "duration" : 217
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "968ae2f13df45eef39ae0625cf7aa82a"
+  } ],
+  "name" : "behaviors"
+}

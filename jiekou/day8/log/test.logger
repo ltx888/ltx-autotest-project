@@ -1,0 +1,3 @@
+2021-04-07 20:26:09,835 INFO [root] [Base_Req.py (__init__:20] - 实例化请求基础类
+2021-04-07 20:26:09,858 DEBUG [urllib3.connectionpool] [connectionpool.py (_new_conn:231] - Starting new HTTP connection (1): 121.42.15.146:9090
+2021-04-07 20:26:10,011 DEBUG [urllib3.connectionpool] [connectionpool.py (_make_request:461] - http://121.42.15.146:9090 "POST /mtx/index.php?s=/index/user/login.html HTTP/1.1" 200 55

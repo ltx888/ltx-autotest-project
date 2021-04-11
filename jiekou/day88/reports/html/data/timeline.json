@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "lvtiexindeMacBook-Pro.local",
+    "children" : [ {
+      "name" : "6750-MainThread",
+      "children" : [ {
+        "name" : "test_case1",
+        "uid" : "de278564b9278761",
+        "parentUid" : "161fac1fd23f124eb3a02999b1b01b56",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617799569719,
+          "stop" : 1617799569936,
+          "duration" : 217
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "161fac1fd23f124eb3a02999b1b01b56"
+    } ],
+    "uid" : "724c52061a6bf094c639be4aa893bb1a"
+  } ],
+  "name" : "timeline"
+}

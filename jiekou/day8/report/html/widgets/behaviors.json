@@ -1,0 +1,15 @@
+{
+  "total" : 2,
+  "items" : [ {
+    "uid" : "49d22d0b4652d1d0394a7fc0ed8b042b",
+    "name" : "登录功能点",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

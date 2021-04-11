@@ -1,0 +1,37 @@
+2021-01-15 17:47:26,766 DEBUG [urllib3.connectionpool] [connectionpool.py (_new_conn:231] - Starting new HTTP connection (1): 121.42.15.146:9090
+2021-01-15 17:47:26,912 DEBUG [urllib3.connectionpool] [connectionpool.py (_make_request:461] - http://121.42.15.146:9090 "POST /mtx/index.php?s=/index/user/login.html HTTP/1.1" 200 55
+2021-01-15 17:47:26,912 INFO [root] [资料.py (login:19] - 测试用的调试信息
+2021-01-15 17:51:03,596 DEBUG [urllib3.connectionpool] [connectionpool.py (_new_conn:231] - Starting new HTTP connection (1): 121.42.15.146:9090
+2021-01-15 17:51:03,746 DEBUG [urllib3.connectionpool] [connectionpool.py (_make_request:461] - http://121.42.15.146:9090 "POST /mtx/index.php?s=/index/user/login.html HTTP/1.1" 200 55
+2021-01-15 17:51:03,747 INFO [root] [资料.py (login:19] - 进行登录
+2021-01-15 17:54:57,119 DEBUG [urllib3.connectionpool] [connectionpool.py (_new_conn:231] - Starting new HTTP connection (1): 121.42.15.146:9090
+2021-01-15 17:54:57,280 DEBUG [urllib3.connectionpool] [connectionpool.py (_make_request:461] - http://121.42.15.146:9090 "POST /mtx/index.php?s=/index/user/login.html HTTP/1.1" 200 55
+2021-01-15 17:54:57,281 INFO [root] [资料.py (login:20] - 进行登录
+2021-01-15 17:54:57,398 DEBUG [urllib3.connectionpool] [connectionpool.py (_make_request:461] - http://121.42.15.146:9090 "POST /mtx/index.php?s=/index/user/login.htmlmtx/index.php?s=/index/cart/save.html HTTP/1.1" 200 71
+2021-01-15 17:54:57,797 DEBUG [urllib3.connectionpool] [connectionpool.py (_make_request:461] - http://121.42.15.146:9090 "POST /mtx/index.php?s=/index/buy/add.html HTTP/1.1" 200 808
+2021-01-15 17:54:57,889 DEBUG [urllib3.connectionpool] [connectionpool.py (_make_request:461] - http://121.42.15.146:9090 "POST /mtx/admin.php?s=/admin/login.html HTTP/1.1" 200 41
+2021-01-15 17:56:43,353 DEBUG [urllib3.connectionpool] [connectionpool.py (_new_conn:231] - Starting new HTTP connection (1): 121.42.15.146:9090
+2021-01-15 17:56:43,497 DEBUG [urllib3.connectionpool] [connectionpool.py (_make_request:461] - http://121.42.15.146:9090 "POST /mtx/index.php?s=/index/user/login.html HTTP/1.1" 200 55
+2021-01-15 17:56:43,498 INFO [root] [资料.py (login:20] - 进行登录
+2021-01-15 17:56:43,612 DEBUG [urllib3.connectionpool] [connectionpool.py (_make_request:461] - http://121.42.15.146:9090 "POST /mtx/index.php?s=/index/user/login.htmlmtx/index.php?s=/index/cart/save.html HTTP/1.1" 200 71
+2021-01-15 17:56:44,002 DEBUG [urllib3.connectionpool] [connectionpool.py (_make_request:461] - http://121.42.15.146:9090 "POST /mtx/index.php?s=/index/buy/add.html HTTP/1.1" 200 808
+2021-01-15 17:56:44,094 DEBUG [urllib3.connectionpool] [connectionpool.py (_make_request:461] - http://121.42.15.146:9090 "POST /mtx/admin.php?s=/admin/login.html HTTP/1.1" 200 41
+2021-01-15 17:59:22,935 DEBUG [urllib3.connectionpool] [connectionpool.py (_new_conn:231] - Starting new HTTP connection (1): 121.42.15.146:9090
+2021-01-15 17:59:23,084 DEBUG [urllib3.connectionpool] [connectionpool.py (_make_request:461] - http://121.42.15.146:9090 "POST /mtx/index.php?s=/index/user/login.html HTTP/1.1" 200 55
+2021-01-15 17:59:23,084 INFO [root] [资料.py (login:20] - 进行登录
+2021-01-15 18:00:01,659 DEBUG [urllib3.connectionpool] [connectionpool.py (_new_conn:231] - Starting new HTTP connection (1): 121.42.15.146:9090
+2021-01-15 18:00:01,848 DEBUG [urllib3.connectionpool] [connectionpool.py (_make_request:461] - http://121.42.15.146:9090 "POST /mtx/index.php?s=/index/user/login.html HTTP/1.1" 200 55
+2021-01-15 18:00:01,850 INFO [root] [资料.py (login:20] - 进行登录
+2021-01-15 18:00:02,310 DEBUG [urllib3.connectionpool] [connectionpool.py (_make_request:461] - http://121.42.15.146:9090 "POST /mtx/index.php?s=/index/buy/add.html HTTP/1.1" 200 808
+2021-01-15 18:01:54,170 DEBUG [urllib3.connectionpool] [connectionpool.py (_new_conn:231] - Starting new HTTP connection (1): 121.42.15.146:9090
+2021-01-15 18:01:54,392 DEBUG [urllib3.connectionpool] [connectionpool.py (_make_request:461] - http://121.42.15.146:9090 "POST /mtx/index.php?s=/index/user/login.html HTTP/1.1" 200 55
+2021-01-15 18:01:54,392 INFO [root] [资料.py (login:20] - 进行登录
+2021-01-15 18:01:54,907 DEBUG [urllib3.connectionpool] [connectionpool.py (_make_request:461] - http://121.42.15.146:9090 "POST /mtx/index.php?s=/index/buy/add.html HTTP/1.1" 200 808
+2021-01-15 18:01:55,279 DEBUG [urllib3.connectionpool] [connectionpool.py (_make_request:461] - http://121.42.15.146:9090 "POST /mtx/admin.php?s=/admin/login.html HTTP/1.1" 200 41
+2021-01-15 18:01:55,437 DEBUG [urllib3.connectionpool] [connectionpool.py (_make_request:461] - http://121.42.15.146:9090 "POST /mtx/admin.php?s=/order/pay.html HTTP/1.1" 200 41
+2021-01-15 18:02:22,476 DEBUG [urllib3.connectionpool] [connectionpool.py (_new_conn:231] - Starting new HTTP connection (1): 121.42.15.146:9090
+2021-01-15 18:02:22,618 DEBUG [urllib3.connectionpool] [connectionpool.py (_make_request:461] - http://121.42.15.146:9090 "POST /mtx/index.php?s=/index/user/login.html HTTP/1.1" 200 55
+2021-01-15 18:02:22,619 INFO [root] [资料.py (login:20] - 进行登录
+2021-01-15 18:02:23,009 DEBUG [urllib3.connectionpool] [connectionpool.py (_make_request:461] - http://121.42.15.146:9090 "POST /mtx/index.php?s=/index/buy/add.html HTTP/1.1" 200 808
+2021-01-15 18:02:23,097 DEBUG [urllib3.connectionpool] [connectionpool.py (_make_request:461] - http://121.42.15.146:9090 "POST /mtx/admin.php?s=/admin/login.html HTTP/1.1" 200 41
+2021-01-15 18:02:23,238 DEBUG [urllib3.connectionpool] [connectionpool.py (_make_request:461] - http://121.42.15.146:9090 "POST /mtx/admin.php?s=/order/pay.html HTTP/1.1" 200 41
