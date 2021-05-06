@@ -1,2 +1,2 @@
-url: 'http://121.42.15.146:9090/mtx/index.php?s=/index/user/login.html'
+url: '/mtx/index.php?s=/index/user/login.html'
 data: {'accounts': 'bull', 'pwd': '123456'}

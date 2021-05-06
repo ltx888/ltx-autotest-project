@@ -1,8 +1,0 @@
-2021-04-11 18:02:24,070 DEBUG [urllib3.connectionpool] [connectionpool.py (_new_conn:231] - Starting new HTTP connection (1): 121.42.15.146:9090
-2021-04-11 18:02:24,070 DEBUG [urllib3.connectionpool] [connectionpool.py (_new_conn:231] - Starting new HTTP connection (1): 121.42.15.146:9090
-2021-04-11 18:02:25,250 DEBUG [urllib3.connectionpool] [connectionpool.py (_make_request:461] - http://121.42.15.146:9090 "POST /mtx/index.php?s=/index/user/login.html HTTP/1.1" 200 55
-2021-04-11 18:02:25,250 DEBUG [urllib3.connectionpool] [connectionpool.py (_make_request:461] - http://121.42.15.146:9090 "POST /mtx/index.php?s=/index/user/login.html HTTP/1.1" 200 55
-2021-04-11 18:05:38,112 DEBUG [urllib3.connectionpool] [connectionpool.py (_new_conn:231] - Starting new HTTP connection (1): 121.42.15.146:9090
-2021-04-11 18:05:38,112 DEBUG [urllib3.connectionpool] [connectionpool.py (_new_conn:231] - Starting new HTTP connection (1): 121.42.15.146:9090
-2021-04-11 18:05:38,279 DEBUG [urllib3.connectionpool] [connectionpool.py (_make_request:461] - http://121.42.15.146:9090 "POST /mtx/index.php?s=/index/user/login.html HTTP/1.1" 200 55
-2021-04-11 18:05:38,279 DEBUG [urllib3.connectionpool] [connectionpool.py (_make_request:461] - http://121.42.15.146:9090 "POST /mtx/index.php?s=/index/user/login.html HTTP/1.1" 200 55

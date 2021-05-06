@@ -1,2 +1,0 @@
-2021-04-07 18:31:44,958 DEBUG [urllib3.connectionpool] [connectionpool.py (_new_conn:231] - Starting new HTTP connection (1): 121.42.15.146:9090
-2021-04-07 18:31:45,114 DEBUG [urllib3.connectionpool] [connectionpool.py (_make_request:461] - http://121.42.15.146:9090 "POST /mtx/index.php?s=/index/user/login.html HTTP/1.1" 200 55
