@@ -235,3 +235,8 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1620298075563	Marionette	INFO	Listening on port 62142
 1620298075732	Marionette	WARN	TLS certificate errors will be ignored for this session
 1620298110321	Marionette	INFO	Stopped listening on port 62142
+1620316210343	Marionette	INFO	Stopped listening on port 61623
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620317292298	Marionette	INFO	Stopped listening on port 54507
