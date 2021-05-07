@@ -1,0 +1,6 @@
+url: "http://121.42.15.146:9090/mtx/"
+into_login_button: "//div[@class='menu-hd']//a[text()='登录']"
+search_input: 'search-input'
+search_button: 'ai-topsearch'
+element_mouse: "//a[text()='数码办公']"
+mouse_phone: "//dl[@class='dl-sort']//span[text()='手机']"

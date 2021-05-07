@@ -1,3 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"broken","Sun Oct 25 12:02:48 CST 2020","Sun Oct 25 12:02:48 CST 2020","45","","allure报告相关的装饰器","Test_login","","","自定义的测试标题",""
-"broken","Sun Oct 25 12:02:48 CST 2020","Sun Oct 25 12:02:48 CST 2020","43","","allure报告相关的装饰器","Test_login","","","test_No_Decorator[bull-123456-登录成功]",""

@@ -5,3 +5,4 @@ cart_url: '/mtx/index.php?s=/index/cart/save.html'
 cart_data: {'goods_id': 1, 'stock': 1}
 order_url: '/mtx/index.php?s=/index/buy/add.html'
 order_data: {'goods_id': 1,'stock': 2,'buy_type': 'goods','address_id': 600,'payment_id':1, 'spec':'',}
+cancelorder_url: '/mtx/index.php?s=/index/order/cancel.html'

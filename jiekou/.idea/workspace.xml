@@ -10,28 +10,47 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1qkAshvQYB4yK6TixfOqEmj0QyD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../jiekou" />
-      <recent name="$PROJECT_DIR$/../jiekou/day7" />
+      <recent name="$PROJECT_DIR$/day8" />
+      <recent name="$PROJECT_DIR$/day8/log" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/day14" />
+      <recent name="$PROJECT_DIR$/day14/conf" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/day14/Case" />
+      <recent name="$PROJECT_DIR$/day88/testcase" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test_接口业务流">
-    <configuration name="test_有依赖的单接口测试" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.flask_demo_tools">
+    <configuration name="多线程启动不同浏览器" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -39,11 +58,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../jiekou/day7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../jiekou/day7/test_有依赖的单接口测试.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程启动不同浏览器.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -52,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_接口业务流" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="flask_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,11 +79,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../jiekou/day7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day11/flask_demo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../jiekou/day7/test_接口业务流.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day11/flask_demo/flask_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -73,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_qq" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="flask_demo_tools" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,11 +100,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../jiekou/day7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day11/flask_demo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../jiekou/day7/test_qq.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day11/flask_demo/flask_demo_tools.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day14/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_login" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day14/Case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day14/Case/test_login.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,9 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test_接口业务流" />
-        <item itemvalue="Python.test_有依赖的单接口测试" />
-        <item itemvalue="Python.test_qq" />
+        <item itemvalue="Python.flask_demo_tools" />
+        <item itemvalue="Python.flask_demo" />
+        <item itemvalue="Python.test_login" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.多线程启动不同浏览器" />
       </list>
     </recent_temporary>
   </component>
@@ -113,62 +176,170 @@
       <option name="presentableId" value="Default" />
       <updated>1617613422041</updated>
     </task>
+    <task id="LOCAL-00001" summary="所有接口的更新">
+      <created>1620311214887</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620311214887</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="所有接口的更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="所有接口的更新" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="236" y="-903" key="#Notifications" timestamp="1620313884394">
+      <screen x="-263" y="-1057" width="1920" height="974" />
+    </state>
+    <state x="236" y="-903" key="#Notifications/0.23.1440.877/-263.-1057.1920.974@-263.-1057.1920.974" timestamp="1620313884394" />
     <state x="369" y="103" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617614164392">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="369" y="103" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/-263.-1057.1920.1057@0.23.1440.877" timestamp="1617614164392" />
-    <state width="1419" height="174" key="GridCell.Tab.0.bottom" timestamp="1617723952853">
+    <state x="332" y="-971" key="CommitChangelistDialog2" timestamp="1620311276533">
       <screen x="-263" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="332" y="-971" key="CommitChangelistDialog2/0.23.1440.804/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620311276533" />
+    <state width="1719" height="256" key="GridCell.Tab.0.bottom" timestamp="1620313863977">
+      <screen x="-263" y="-1057" width="1920" height="974" />
     </state>
     <state width="1419" height="194" key="GridCell.Tab.0.bottom/0.0.1440.900/-263.-1080.1920.1080@-263.-1080.1920.1080" timestamp="1617697042678" />
     <state width="1419" height="2" key="GridCell.Tab.0.bottom/0.0.1440.900/-263.-1080.1920.1080@0.0.1440.900" timestamp="1617693035768" />
-    <state width="1419" height="174" key="GridCell.Tab.0.bottom/0.23.1440.798/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1617723952853" />
+    <state width="1719" height="2" key="GridCell.Tab.0.bottom/0.23.1440.794/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620214372415" />
+    <state width="1719" height="362" key="GridCell.Tab.0.bottom/0.23.1440.795/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620121665658" />
+    <state width="1719" height="309" key="GridCell.Tab.0.bottom/0.23.1440.798/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620287078282" />
     <state width="1419" height="2" key="GridCell.Tab.0.bottom/0.23.1440.798/-263.-1080.1920.1080@0.23.1440.798" timestamp="1617687707403" />
+    <state width="1719" height="128" key="GridCell.Tab.0.bottom/0.23.1440.801/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620303131584" />
+    <state width="1719" height="2" key="GridCell.Tab.0.bottom/0.23.1440.804/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620311286791" />
     <state width="1419" height="2" key="GridCell.Tab.0.bottom/0.23.1440.804/-263.-1057.1920.1057@0.23.1440.804" timestamp="1617693068185" />
     <state width="1419" height="2" key="GridCell.Tab.0.bottom/0.23.1440.804/-263.-1080.1920.1080@0.23.1440.804" timestamp="1617693052723" />
-    <state width="1419" height="174" key="GridCell.Tab.0.center" timestamp="1617723952850">
-      <screen x="-263" y="-1057" width="1920" height="1057" />
+    <state width="1719" height="309" key="GridCell.Tab.0.bottom/0.23.1440.806/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620286821899" />
+    <state width="1719" height="309" key="GridCell.Tab.0.bottom/0.23.1440.808/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620286967822" />
+    <state width="1719" height="256" key="GridCell.Tab.0.bottom/0.23.1440.877/-263.-1057.1920.974@-263.-1057.1920.974" timestamp="1620313863977" />
+    <state width="1719" height="2" key="GridCell.Tab.0.bottom/0.23.1440.877/-263.-1057.1920.975@-263.-1057.1920.975" timestamp="1620295869199" />
+    <state width="1719" height="356" key="GridCell.Tab.0.bottom/0.23.1440.877/-263.-1057.1920.978@-263.-1057.1920.978" timestamp="1620295893791" />
+    <state width="1719" height="256" key="GridCell.Tab.0.center" timestamp="1620313863976">
+      <screen x="-263" y="-1057" width="1920" height="974" />
     </state>
     <state width="1419" height="194" key="GridCell.Tab.0.center/0.0.1440.900/-263.-1080.1920.1080@-263.-1080.1920.1080" timestamp="1617697042673" />
     <state width="1419" height="2" key="GridCell.Tab.0.center/0.0.1440.900/-263.-1080.1920.1080@0.0.1440.900" timestamp="1617693035766" />
-    <state width="1419" height="174" key="GridCell.Tab.0.center/0.23.1440.798/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1617723952850" />
+    <state width="1719" height="2" key="GridCell.Tab.0.center/0.23.1440.794/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620214372414" />
+    <state width="1719" height="362" key="GridCell.Tab.0.center/0.23.1440.795/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620121665657" />
+    <state width="1719" height="309" key="GridCell.Tab.0.center/0.23.1440.798/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620287078281" />
     <state width="1419" height="2" key="GridCell.Tab.0.center/0.23.1440.798/-263.-1080.1920.1080@0.23.1440.798" timestamp="1617687707400" />
+    <state width="1719" height="128" key="GridCell.Tab.0.center/0.23.1440.801/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620303131583" />
+    <state width="1719" height="2" key="GridCell.Tab.0.center/0.23.1440.804/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620311286790" />
     <state width="1419" height="2" key="GridCell.Tab.0.center/0.23.1440.804/-263.-1057.1920.1057@0.23.1440.804" timestamp="1617693068184" />
     <state width="1419" height="2" key="GridCell.Tab.0.center/0.23.1440.804/-263.-1080.1920.1080@0.23.1440.804" timestamp="1617693052721" />
-    <state width="1419" height="174" key="GridCell.Tab.0.left" timestamp="1617723952850">
-      <screen x="-263" y="-1057" width="1920" height="1057" />
+    <state width="1719" height="309" key="GridCell.Tab.0.center/0.23.1440.806/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620286821896" />
+    <state width="1719" height="309" key="GridCell.Tab.0.center/0.23.1440.808/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620286967820" />
+    <state width="1719" height="256" key="GridCell.Tab.0.center/0.23.1440.877/-263.-1057.1920.974@-263.-1057.1920.974" timestamp="1620313863976" />
+    <state width="1719" height="2" key="GridCell.Tab.0.center/0.23.1440.877/-263.-1057.1920.975@-263.-1057.1920.975" timestamp="1620295869198" />
+    <state width="1719" height="356" key="GridCell.Tab.0.center/0.23.1440.877/-263.-1057.1920.978@-263.-1057.1920.978" timestamp="1620295893789" />
+    <state width="1719" height="256" key="GridCell.Tab.0.left" timestamp="1620313863975">
+      <screen x="-263" y="-1057" width="1920" height="974" />
     </state>
     <state width="1419" height="194" key="GridCell.Tab.0.left/0.0.1440.900/-263.-1080.1920.1080@-263.-1080.1920.1080" timestamp="1617697042672" />
     <state width="1419" height="2" key="GridCell.Tab.0.left/0.0.1440.900/-263.-1080.1920.1080@0.0.1440.900" timestamp="1617693035765" />
-    <state width="1419" height="174" key="GridCell.Tab.0.left/0.23.1440.798/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1617723952850" />
+    <state width="1719" height="2" key="GridCell.Tab.0.left/0.23.1440.794/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620214372414" />
+    <state width="1719" height="362" key="GridCell.Tab.0.left/0.23.1440.795/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620121665657" />
+    <state width="1719" height="309" key="GridCell.Tab.0.left/0.23.1440.798/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620287078280" />
     <state width="1419" height="2" key="GridCell.Tab.0.left/0.23.1440.798/-263.-1080.1920.1080@0.23.1440.798" timestamp="1617687707399" />
+    <state width="1719" height="128" key="GridCell.Tab.0.left/0.23.1440.801/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620303131583" />
+    <state width="1719" height="2" key="GridCell.Tab.0.left/0.23.1440.804/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620311286789" />
     <state width="1419" height="2" key="GridCell.Tab.0.left/0.23.1440.804/-263.-1057.1920.1057@0.23.1440.804" timestamp="1617693068183" />
     <state width="1419" height="2" key="GridCell.Tab.0.left/0.23.1440.804/-263.-1080.1920.1080@0.23.1440.804" timestamp="1617693052720" />
-    <state width="1419" height="174" key="GridCell.Tab.0.right" timestamp="1617723952851">
-      <screen x="-263" y="-1057" width="1920" height="1057" />
+    <state width="1719" height="309" key="GridCell.Tab.0.left/0.23.1440.806/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620286821896" />
+    <state width="1719" height="309" key="GridCell.Tab.0.left/0.23.1440.808/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620286967820" />
+    <state width="1719" height="256" key="GridCell.Tab.0.left/0.23.1440.877/-263.-1057.1920.974@-263.-1057.1920.974" timestamp="1620313863975" />
+    <state width="1719" height="2" key="GridCell.Tab.0.left/0.23.1440.877/-263.-1057.1920.975@-263.-1057.1920.975" timestamp="1620295869198" />
+    <state width="1719" height="356" key="GridCell.Tab.0.left/0.23.1440.877/-263.-1057.1920.978@-263.-1057.1920.978" timestamp="1620295893788" />
+    <state width="1719" height="256" key="GridCell.Tab.0.right" timestamp="1620313863977">
+      <screen x="-263" y="-1057" width="1920" height="974" />
     </state>
     <state width="1419" height="194" key="GridCell.Tab.0.right/0.0.1440.900/-263.-1080.1920.1080@-263.-1080.1920.1080" timestamp="1617697042677" />
     <state width="1419" height="2" key="GridCell.Tab.0.right/0.0.1440.900/-263.-1080.1920.1080@0.0.1440.900" timestamp="1617693035767" />
-    <state width="1419" height="174" key="GridCell.Tab.0.right/0.23.1440.798/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1617723952851" />
+    <state width="1719" height="2" key="GridCell.Tab.0.right/0.23.1440.794/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620214372415" />
+    <state width="1719" height="362" key="GridCell.Tab.0.right/0.23.1440.795/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620121665658" />
+    <state width="1719" height="309" key="GridCell.Tab.0.right/0.23.1440.798/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620287078281" />
     <state width="1419" height="2" key="GridCell.Tab.0.right/0.23.1440.798/-263.-1080.1920.1080@0.23.1440.798" timestamp="1617687707401" />
+    <state width="1719" height="128" key="GridCell.Tab.0.right/0.23.1440.801/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620303131584" />
+    <state width="1719" height="2" key="GridCell.Tab.0.right/0.23.1440.804/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620311286791" />
     <state width="1419" height="2" key="GridCell.Tab.0.right/0.23.1440.804/-263.-1057.1920.1057@0.23.1440.804" timestamp="1617693068184" />
     <state width="1419" height="2" key="GridCell.Tab.0.right/0.23.1440.804/-263.-1080.1920.1080@0.23.1440.804" timestamp="1617693052722" />
-    <state x="221" y="79" key="SettingsEditor" timestamp="1617614046734">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1719" height="309" key="GridCell.Tab.0.right/0.23.1440.806/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620286821897" />
+    <state width="1719" height="309" key="GridCell.Tab.0.right/0.23.1440.808/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620286967821" />
+    <state width="1719" height="256" key="GridCell.Tab.0.right/0.23.1440.877/-263.-1057.1920.974@-263.-1057.1920.974" timestamp="1620313863977" />
+    <state width="1719" height="2" key="GridCell.Tab.0.right/0.23.1440.877/-263.-1057.1920.975@-263.-1057.1920.975" timestamp="1620295869199" />
+    <state width="1719" height="356" key="GridCell.Tab.0.right/0.23.1440.877/-263.-1057.1920.978@-263.-1057.1920.978" timestamp="1620295893789" />
+    <state width="1719" height="356" key="GridCell.Tab.1.bottom" timestamp="1620295893793">
+      <screen x="-263" y="-1057" width="1920" height="978" />
     </state>
+    <state width="1719" height="2" key="GridCell.Tab.1.bottom/0.23.1440.795/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620098755602" />
+    <state width="1719" height="2" key="GridCell.Tab.1.bottom/0.23.1440.801/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620287835625" />
+    <state width="1788" height="101" key="GridCell.Tab.1.bottom/0.23.1440.804/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620057367053" />
+    <state width="1719" height="2" key="GridCell.Tab.1.bottom/0.23.1440.806/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620211614886" />
+    <state width="1719" height="2" key="GridCell.Tab.1.bottom/0.23.1440.808/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620209424259" />
+    <state width="1529" height="378" key="GridCell.Tab.1.bottom/0.23.1440.877/-263.-1057.1920.974@-263.-1057.1920.974" timestamp="1620052150457" />
+    <state width="1719" height="2" key="GridCell.Tab.1.bottom/0.23.1440.877/-263.-1057.1920.975@-263.-1057.1920.975" timestamp="1620295869049" />
+    <state width="1719" height="356" key="GridCell.Tab.1.bottom/0.23.1440.877/-263.-1057.1920.978@-263.-1057.1920.978" timestamp="1620295893793" />
+    <state width="1719" height="356" key="GridCell.Tab.1.center" timestamp="1620295893792">
+      <screen x="-263" y="-1057" width="1920" height="978" />
+    </state>
+    <state width="1719" height="2" key="GridCell.Tab.1.center/0.23.1440.795/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620098755600" />
+    <state width="1719" height="2" key="GridCell.Tab.1.center/0.23.1440.801/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620287835624" />
+    <state width="1788" height="101" key="GridCell.Tab.1.center/0.23.1440.804/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620057367053" />
+    <state width="1719" height="2" key="GridCell.Tab.1.center/0.23.1440.806/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620211614885" />
+    <state width="1719" height="2" key="GridCell.Tab.1.center/0.23.1440.808/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620209424257" />
+    <state width="1529" height="378" key="GridCell.Tab.1.center/0.23.1440.877/-263.-1057.1920.974@-263.-1057.1920.974" timestamp="1620052150457" />
+    <state width="1719" height="2" key="GridCell.Tab.1.center/0.23.1440.877/-263.-1057.1920.975@-263.-1057.1920.975" timestamp="1620295869047" />
+    <state width="1719" height="356" key="GridCell.Tab.1.center/0.23.1440.877/-263.-1057.1920.978@-263.-1057.1920.978" timestamp="1620295893792" />
+    <state width="1719" height="356" key="GridCell.Tab.1.left" timestamp="1620295893791">
+      <screen x="-263" y="-1057" width="1920" height="978" />
+    </state>
+    <state width="1719" height="2" key="GridCell.Tab.1.left/0.23.1440.795/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620098755600" />
+    <state width="1719" height="2" key="GridCell.Tab.1.left/0.23.1440.801/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620287835623" />
+    <state width="1788" height="101" key="GridCell.Tab.1.left/0.23.1440.804/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620057367052" />
+    <state width="1719" height="2" key="GridCell.Tab.1.left/0.23.1440.806/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620211614884" />
+    <state width="1719" height="2" key="GridCell.Tab.1.left/0.23.1440.808/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620209424256" />
+    <state width="1529" height="378" key="GridCell.Tab.1.left/0.23.1440.877/-263.-1057.1920.974@-263.-1057.1920.974" timestamp="1620052150456" />
+    <state width="1719" height="2" key="GridCell.Tab.1.left/0.23.1440.877/-263.-1057.1920.975@-263.-1057.1920.975" timestamp="1620295869046" />
+    <state width="1719" height="356" key="GridCell.Tab.1.left/0.23.1440.877/-263.-1057.1920.978@-263.-1057.1920.978" timestamp="1620295893791" />
+    <state width="1719" height="356" key="GridCell.Tab.1.right" timestamp="1620295893792">
+      <screen x="-263" y="-1057" width="1920" height="978" />
+    </state>
+    <state width="1719" height="2" key="GridCell.Tab.1.right/0.23.1440.795/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620098755601" />
+    <state width="1719" height="2" key="GridCell.Tab.1.right/0.23.1440.801/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620287835624" />
+    <state width="1788" height="101" key="GridCell.Tab.1.right/0.23.1440.804/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620057367053" />
+    <state width="1719" height="2" key="GridCell.Tab.1.right/0.23.1440.806/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620211614886" />
+    <state width="1719" height="2" key="GridCell.Tab.1.right/0.23.1440.808/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620209424258" />
+    <state width="1529" height="378" key="GridCell.Tab.1.right/0.23.1440.877/-263.-1057.1920.974@-263.-1057.1920.974" timestamp="1620052150457" />
+    <state width="1719" height="2" key="GridCell.Tab.1.right/0.23.1440.877/-263.-1057.1920.975@-263.-1057.1920.975" timestamp="1620295869048" />
+    <state width="1719" height="356" key="GridCell.Tab.1.right/0.23.1440.877/-263.-1057.1920.978@-263.-1057.1920.978" timestamp="1620295893792" />
+    <state x="32" y="-995" key="SettingsEditor" timestamp="1620215167272">
+      <screen x="-263" y="-1057" width="1920" height="974" />
+    </state>
+    <state x="32" y="-990" key="SettingsEditor/0.23.1440.801/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620045405952" />
     <state x="221" y="79" key="SettingsEditor/0.23.1440.877/-263.-1057.1920.1057@0.23.1440.877" timestamp="1617614046734" />
+    <state x="32" y="-995" key="SettingsEditor/0.23.1440.877/-263.-1057.1920.974@-263.-1057.1920.974" timestamp="1620215167272" />
+    <state x="236" y="-829" key="Vcs.Push.Dialog.v2" timestamp="1620313832616">
+      <screen x="-263" y="-1057" width="1920" height="974" />
+    </state>
+    <state x="236" y="-829" key="Vcs.Push.Dialog.v2/0.23.1440.877/-263.-1057.1920.974@-263.-1057.1920.974" timestamp="1620313832616" />
     <state x="374" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1617670710815">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="374" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.798/-263.-1057.1920.1057@0.23.1440.798" timestamp="1617632429341" />
     <state x="374" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.877/-263.-1057.1920.1057@0.23.1440.877" timestamp="1617670710815" />
-    <state x="-263" y="-1080" width="1920" height="1080" key="dock-window-1" timestamp="1617683575786">
-      <screen x="-263" y="-1080" width="1920" height="1080" />
+    <state x="-77" y="-1000" width="1381" height="896" key="dock-window-1" timestamp="1620135464399">
+      <screen x="-263" y="-1057" width="1920" height="1057" />
     </state>
     <state x="-263" y="-1080" width="1920" height="1080" key="dock-window-1/0.23.1440.798/-263.-1080.1920.1080@0.23.1440.798" timestamp="1617683575786" />
+    <state x="-124" y="-392" width="1381" height="896" key="dock-window-1/0.23.1440.804/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620134010669" />
+    <state x="-77" y="-1000" width="1381" height="896" key="dock-window-1/0.23.1440.806/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1620135464399" />
     <state x="174" y="-955" width="1308" height="720" key="dock-window-2" timestamp="1617697155060">
       <screen x="-263" y="-1057" width="1920" height="1057" />
     </state>
@@ -177,11 +348,11 @@
     <state x="-115" y="-983" width="1081" height="720" key="dock-window-2/0.23.1440.804/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1617694183952" />
     <state x="271" y="-937" width="1081" height="720" key="dock-window-2/0.23.1440.806/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1617696567674" />
     <state x="174" y="-955" width="1308" height="720" key="dock-window-2/0.23.1440.806/-263.-1057.1920.1057@0.23.1440.806" timestamp="1617697155060" />
-    <state x="93" y="-776" width="1081" height="554" key="dock-window-3" timestamp="1617709019614">
-      <screen x="-263" y="-1057" width="1920" height="1057" />
+    <state x="93" y="-776" width="1081" height="554" key="dock-window-3" timestamp="1620025427607">
+      <screen x="-263" y="-1080" width="1920" height="1080" />
     </state>
-    <state x="-263" y="-1080" width="1920" height="1080" key="dock-window-3/0.0.1440.900/-263.-1080.1920.1080@-263.-1080.1920.1080" timestamp="1617708207964" />
+    <state x="93" y="-776" width="1081" height="554" key="dock-window-3/0.0.1440.900/-263.-1080.1920.1080@-263.-1080.1920.1080" timestamp="1620025427607" />
     <state x="-263" y="-1080" width="1920" height="1080" key="dock-window-3/0.0.1440.900/-263.-1080.1920.1080@0.0.1440.900" timestamp="1617699233787" />
-    <state x="93" y="-776" width="1081" height="554" key="dock-window-3/0.23.1440.804/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1617709019614" />
+    <state x="93" y="-776" width="1081" height="554" key="dock-window-3/0.23.1440.804/-263.-1057.1920.1057@-263.-1057.1920.1057" timestamp="1618318024453" />
   </component>
 </project>

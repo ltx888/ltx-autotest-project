@@ -1,16 +1,15 @@
 import pytest
 import html
-from day88.api.login_api1 import login_api1
 import allure
-
-
+from day88.api.login_api1 import login_api1
 
 class Test_login1:
 
-    @allure.story('测试allure')
     def test_case1(self):
+        # 实例化login api类
         obj = login_api1()
-        session,resp = obj.login1()
+        # 接口返回数据转换程字典格式，进行断言
+        resp = obj.login1()
         resp = resp.json()
         msg = resp['msg']
         assert msg =='登录成功'
