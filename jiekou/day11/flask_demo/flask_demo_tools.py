@@ -27,3 +27,4 @@ def read_all_data(path = 'reg_data.csv'):
 if __name__ == '__main__':
     # reg_reight('张三','123456')
     print(read_all_data())
+# 加一行注释
